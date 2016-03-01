@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+pattern="$1"
+file="$2"
+
+grep -H "$pattern" "$file"
+zgrep -H "$pattern" $file.*.gz
