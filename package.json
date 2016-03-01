@@ -1,6 +1,6 @@
 {
   "name": "lrgrep",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Helper script for `grep`ing log rotated files",
   "author": "Maciej Małecki <me@mmalecki.com>",
   "bin": {
